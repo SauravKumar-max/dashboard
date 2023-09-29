@@ -11,8 +11,10 @@
   "dependencies": {
     "next": "latest",
     "react": "latest",
+    "react-circular-progressbar": "^2.1.0",
     "react-dom": "latest",
-    "react-icons": "^4.11.0"
+    "react-icons": "^4.11.0",
+    "react-paginate": "^8.2.0"
   },
   "devDependencies": {
     "@types/node": "latest",

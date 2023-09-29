@@ -1,3 +1,10 @@
+import { Main, Sidebar } from "@/components";
+
 export default function Home() {
-  return <main>Dashboard</main>;
+  return (
+    <main className="flex items-start">
+      <Sidebar />
+      <Main />
+    </main>
+  );
 }
