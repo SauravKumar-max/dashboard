@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+
+.active-page{
+    background: #5932EA;
+    border: solid 1px #5932EA;
+    color: white;
+    font-size: 12px;
+}
